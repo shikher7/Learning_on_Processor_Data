@@ -1,0 +1,109 @@
+CINT2006rate,"Cisco Systems","Cisco UCS C220 M5 (Intel Xeon Silver 4112, 2.60GHz)",8,2,4,2600,16,385,357,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C240 M5 (Intel Xeon Silver 4108, 1.80GHz)",16,2,8,1800,32,671,636,Oct-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C240 M5 (Intel Xeon Silver 4110, 2.10GHz)",16,2,8,2100,32,740,702,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C240 M5 (Intel Xeon Silver 4112, 2.60GHz)",8,2,4,2600,16,448,424,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C240 M5 (Intel Xeon Silver 4114, 2.20GHz)",20,2,10,2200,40,953,905,Sep-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C240 M5 (Intel Xeon Silver 4116, 2.10GHz)",24,2,12,2100,48,1100,1050,Sep-2017
+CINT2006rate,"Dell Inc.","PowerEdge C6420 (Intel Xeon Silver 4108, 1.80 GHz)",16,2,8,1800,32,662,629,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge C6420 (Intel Xeon Silver 4108, 1.80 GHz)",16,2,8,1800,32,663,629,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge C6420 (Intel Xeon Silver 4109T, 2.00 GHz)",16,2,8,2000,32,665,633,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge C6420 (Intel Xeon Silver 4110, 2.10 GHz)",16,2,8,2100,32,666,624,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge C6420 (Intel Xeon Silver 4112, 2.60 GHz)",8,2,4,2600,16,401,380,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge C6420 (Intel Xeon Silver 4114, 2.20 GHz)",20,2,10,2200,40,930,888,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge C6420 (Intel Xeon Silver 4114, 2.20 GHz)",20,2,10,2200,40,857,802,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge FC640 (Intel Xeon Silver 4108, 1.80 GHz)",16,2,8,1700,32,660,618,Sep-2017
+CINT2006rate,"Dell Inc.","PowerEdge FC640 (Intel Xeon Silver 4110, 2.10 GHz)",16,2,8,2100,32,715,682,Oct-2017
+CINT2006rate,"Dell Inc.","PowerEdge FC640 (Intel Xeon Silver 4114, 2.20 GHz)",20,2,10,2200,40,944,898,Oct-2017
+CINT2006rate,"Dell Inc.","PowerEdge M640 (Intel Xeon Silver 4108, 1.80 GHz)",16,2,8,1700,32,662,628,Sep-2017
+CINT2006rate,"Dell Inc.","PowerEdge M640 (Intel Xeon Silver 4109T, 2.00 GHz)",16,2,8,2000,32,709,674,Sep-2017
+CINT2006rate,"Dell Inc.","PowerEdge M640 (Intel Xeon Silver 4110, 2.10 GHz)",16,2,8,2100,32,731,694,Sep-2017
+CINT2006rate,"Dell Inc.","PowerEdge M640 (Intel Xeon Silver 4112, 2.60 GHz)",8,2,4,2600,16,441,418,Oct-2017
+CINT2006rate,"Dell Inc.","PowerEdge M640 (Intel Xeon Silver 4114, 2.20 GHz)",20,2,10,2200,40,937,891,Sep-2017
+CINT2006rate,"Dell Inc.","PowerEdge M640 (Intel Xeon Silver 4116, 2.10 GHz)",24,2,12,2100,48,1070,1020,Sep-2017
+CINT2006rate,"Dell Inc.","PowerEdge R440 (Intel Xeon Silver 4116, 2.10 GHz)",24,2,12,2100,48,1090,1040,Sep-2017
+CINT2006rate,"Dell Inc.","PowerEdge R540 (Intel Xeon Silver 4116, 2.10 GHz)",24,2,12,2100,48,0,1030,Sep-2017
+CINT2006rate,"Dell Inc.","PowerEdge R640 (Intel Xeon Silver 4108, 1.80 GHz)",16,2,8,1700,32,662,628,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge R640 (Intel Xeon Silver 4109T, 2.00 GHz)",16,2,8,2000,32,709,673,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge R640 (Intel Xeon Silver 4110, 2.10 GHz)",16,2,8,2100,32,733,696,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge R640 (Intel Xeon Silver 4112, 2.60 GHz)",8,2,4,2600,16,438,417,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge R640 (Intel Xeon Silver 4114, 2.20 GHz)",20,2,10,2200,40,943,898,Sep-2017
+CINT2006rate,"Dell Inc.","PowerEdge R640 (Intel Xeon Silver 4116, 2.10 GHz)",24,2,12,2100,48,1080,1030,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge R740 (Intel Xeon Silver 4108, 1.80 GHz)",16,2,8,1800,32,0,631,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R740 (Intel Xeon Silver 4109T, 2.00 GHz)",16,2,8,2000,32,0,641,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R740 (Intel Xeon Silver 4110, 2.10 GHz)",16,2,8,2100,32,0,697,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R740 (Intel Xeon Silver 4112, 2.60 GHz)",8,2,4,2600,16,0,418,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R740 (Intel Xeon Silver 4112, 2.60 GHz)",8,2,4,2600,16,0,352,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R740 (Intel Xeon Silver 4114, 2.20 GHz)",20,2,10,2200,40,0,896,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R740 (Intel Xeon Silver 4114T, 2.20 GHz)",20,2,10,2200,40,0,899,Oct-2017
+CINT2006rate,"Dell Inc.","PowerEdge R740 (Intel Xeon Silver 4116, 2.10 GHz)",24,2,12,2100,48,1060,1000,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge R740 (Intel Xeon Silver 4116, 2.10 GHz)",24,2,12,2100,48,0,1040,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R740 (Intel Xeon Silver 4116T, 2.10 GHz)",24,2,12,2100,48,0,1040,Oct-2017
+CINT2006rate,"Dell Inc.","PowerEdge T440 (Intel Xeon Silver 4116, 2.10 GHz)",24,2,12,2100,48,1090,1030,Sep-2017
+CINT2006rate,"Dell Inc.","PowerEdgeFC640 (Intel Xeon Silver 4109T, 2.00 GHz)",16,2,8,2000,32,713,678,Sep-2017
+CINT2006rate,Fujitsu,"PRIMERGY RX2530 M4, Intel Xeon Silver 4108, 1.80GHz",16,2,8,1800,32,0,641,Sep-2017
+CINT2006rate,Fujitsu,"PRIMERGY RX2530 M4, Intel Xeon Silver 4110, 2.10GHz",16,2,8,2100,32,0,711,Sep-2017
+CINT2006rate,Fujitsu,"PRIMERGY RX2530 M4, Intel Xeon Silver 4112, 2.60GHz",8,2,4,2600,16,0,426,Sep-2017
+CINT2006rate,Fujitsu,"PRIMERGY RX2530 M4, Intel Xeon Silver 4114, 2.20GHz",20,2,10,2200,40,0,911,Sep-2017
+CINT2006rate,Fujitsu,"PRIMERGY RX2540 M4, Intel Xeon Silver 4116, 2.10GHz",24,2,12,2100,48,0,1060,Sep-2017
+CINT2006rate,Huawei,"Huawei 1288H V5 (Intel Xeon Silver 4108)",16,2,8,1800,32,670,633,Sep-2017
+CINT2006rate,Huawei,"Huawei 1288H V5 (Intel Xeon Silver 4110)",16,2,8,2100,32,741,703,Sep-2017
+CINT2006rate,Huawei,"Huawei 1288H V5 (Intel Xeon Silver 4112)",8,2,4,2600,16,447,423,Sep-2017
+CINT2006rate,Huawei,"Huawei 1288H V5 (Intel Xeon Silver 4114)",20,2,10,2200,40,950,899,Aug-2017
+CINT2006rate,Huawei,"Huawei 1288H V5 (Intel Xeon Silver 4116)",24,2,12,2100,48,1100,1040,Sep-2017
+CINT2006rate,Huawei,"Huawei 1288H V5 (Intel Xeon Silver 4116)",24,2,12,2100,48,1080,1020,Aug-2017
+CINT2006rate,Huawei,"Huawei 2288H V5 (Intel Xeon Silver 4108)",16,2,8,1800,32,668,632,Sep-2017
+CINT2006rate,Huawei,"Huawei 2288H V5 (Intel Xeon Silver 4110)",16,2,8,2100,32,742,702,Sep-2017
+CINT2006rate,Huawei,"Huawei 2288H V5 (Intel Xeon Silver 4112)",8,2,4,2600,16,447,422,Sep-2017
+CINT2006rate,Huawei,"Huawei 2288H V5 (Intel Xeon Silver 4114)",20,2,10,2200,40,951,901,Aug-2017
+CINT2006rate,Huawei,"Huawei 2288H V5 (Intel Xeon Silver 4116)",24,2,12,2100,48,1100,1040,Sep-2017
+CINT2006rate,Huawei,"Huawei 2288H V5 (Intel Xeon Silver 4116)",24,2,12,2100,48,1070,1020,Aug-2017
+CINT2006rate,Huawei,"Huawei CH121 V5 (Intel Xeon Silver 4108)",16,2,8,1800,32,669,632,Sep-2017
+CINT2006rate,Huawei,"Huawei CH121 V5 (Intel Xeon Silver 4110)",16,2,8,2100,32,743,702,Sep-2017
+CINT2006rate,Huawei,"Huawei CH121 V5 (Intel Xeon Silver 4112)",8,2,4,2600,16,448,423,Sep-2017
+CINT2006rate,Huawei,"Huawei CH121 V5 (Intel Xeon Silver 4114)",20,2,10,2200,40,950,900,Aug-2017
+CINT2006rate,Huawei,"Huawei CH121 V5 (Intel Xeon Silver 4116)",24,2,12,2100,48,1100,1040,Sep-2017
+CINT2006rate,Huawei,"Huawei CH121 V5 (Intel Xeon Silver 4116)",24,2,12,2100,48,1080,1020,Aug-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SD530 (1.80 GHz, Intel Xeon Silver 4108)",16,2,8,1800,32,665,631,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SD530 (2.00 GHz, Intel Xeon Silver 4109T)",16,2,8,2000,32,713,677,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SD530 (2.10 GHz, Intel Xeon Silver 4110)",16,2,8,2100,32,736,699,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SD530 (2.10 GHz, Intel Xeon Silver 4116)",24,2,12,2100,48,1080,1030,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SD530 (2.20 GHz, Intel Xeon Silver 4114)",20,2,10,2200,40,939,895,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SD530 (2.60 GHz, Intel Xeon Silver 4112)",8,2,4,2600,16,441,418,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SN550 (1.80 GHz, Intel Xeon Silver 4108)",16,2,8,1800,32,666,631,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SN550 (2.00 GHz, Intel Xeon Silver 4109T)",16,2,8,2000,32,714,678,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SN550 (2.10 GHz, Intel Xeon Silver 4110)",16,2,8,2100,32,737,699,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SN550 (2.10 GHz, Intel Xeon Silver 4116)",24,2,12,2100,48,1090,1030,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SN550 (2.20 GHz, Intel Xeon Silver 4114)",20,2,10,2200,40,943,894,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SN550 (2.60 GHz, Intel Xeon Silver 4112)",8,2,4,2600,16,443,420,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR530 (1.80 GHz, Intel Xeon Silver 4108)",16,2,8,1800,32,658,624,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR530 (2.00 GHz, Intel Xeon Silver 4109T)",16,2,8,2000,32,706,670,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR530 (2.10 GHz, Intel Xeon Silver 4110)",16,2,8,2100,32,728,691,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR530 (2.10 GHz, Intel Xeon Silver 4116)",24,2,12,2100,48,1070,1020,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR530 (2.20 GHz, Intel Xeon Silver 4114)",20,2,10,2200,40,928,885,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR530 (2.60 GHz, Intel Xeon Silver 4112)",8,2,4,2600,16,436,413,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR550 (1.80 GHz, Intel Xeon Silver 4108)",16,2,8,1800,32,656,623,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR550 (2.00 GHz, Intel Xeon Silver 4109T)",16,2,8,2000,32,703,668,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR550 (2.10 GHz, Intel Xeon Silver 4110)",16,2,8,2100,32,727,690,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR550 (2.10 GHz, Intel Xeon Silver 4116)",24,2,12,2100,48,1070,1020,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR550 (2.20 GHz, Intel Xeon Silver 4114)",20,2,10,2200,40,931,886,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR550 (2.60 GHz, Intel Xeon Silver 4112)",8,2,4,2600,16,437,413,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR630 (1.80 GHz, Intel Xeon Silver 4108)",16,2,8,1800,32,666,632,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR630 (2.00 GHz, Intel Xeon Silver 4109T)",16,2,8,2000,32,713,678,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR630 (2.10 GHz, Intel Xeon Silver 4110)",16,2,8,2100,32,737,700,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR630 (2.10 GHz, Intel Xeon Silver 4116)",24,2,12,2100,48,1090,1030,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR630 (2.20 GHz, Intel Xeon Silver 4114)",20,2,10,2200,40,938,895,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR630 (2.60 GHz, Intel Xeon Silver 4112)",8,2,4,2600,16,442,419,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR650 (1.80 GHz, Intel Xeon Silver 4108)",16,2,8,1800,32,667,634,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR650 (2.00 GHz, Intel Xeon Silver 4109T)",16,2,8,2000,32,711,675,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR650 (2.10 GHz, Intel Xeon Silver 4110)",16,2,8,2100,32,739,701,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR650 (2.10 GHz, Intel Xeon Silver 4116)",24,2,12,2100,48,1090,1040,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR650 (2.20 GHz, Intel Xeon Silver 4114)",20,2,10,2200,40,942,898,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR650 (2.60 GHz, Intel Xeon Silver 4112)",8,2,4,2600,16,443,421,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem ST550 (1.80 GHz, Intel Xeon Silver 4108)",16,2,8,1800,32,661,628,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem ST550 (2.00 GHz, Intel Xeon Silver 4109T)",16,2,8,2000,32,706,670,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem ST550 (2.10 GHz, Intel Xeon Silver 4110)",16,2,8,2100,32,729,692,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem ST550 (2.10 GHz, Intel Xeon Silver 4116)",24,2,12,2100,48,1070,1020,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem ST550 (2.20 GHz, Intel Xeon Silver 4114)",20,2,10,2200,40,932,887,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem ST550 (2.60 GHz, Intel Xeon Silver 4112)",8,2,4,2600,16,435,414,Sep-2017
+CINT2006rate,"M Computers s.r.o.","HPC S2600WF (Intel Xeon Silver 4112, 2.60 GHz)",8,2,4,2600,16,0,418,Sep-2017
+CINT2006rate,"M Computers s.r.o.","HPC S2600WF (Intel Xeon Silver 4114, 2.20 GHz)",20,2,10,2200,40,0,884,Sep-2017

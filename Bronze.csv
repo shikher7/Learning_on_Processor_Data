@@ -1,0 +1,40 @@
+CINT2006rate,"Cisco Systems","Cisco UCS C240 M5 (Intel Xeon Bronze 3104, 1.70GHz)",12,2,6,1700,12,344,330,Oct-2017
+CINT2006rate,"Cisco Systems","Cisco UCS C240 M5 (Intel Xeon Bronze 3106, 1.70GHz)",16,2,8,1700,16,458,439,Oct-2017
+CINT2006rate,"Dell Inc.","PowerEdge C6420 (Intel Xeon Bronze 3104, 1.70 GHz)",12,2,6,1700,12,286,275,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge C6420 (Intel Xeon Bronze 3104, 1.70 GHz)",12,2,6,1700,12,287,276,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge C6420 (Intel Xeon Bronze 3106, 1.70 GHz)",16,2,8,1700,16,409,393,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge C6420 (Intel Xeon Bronze 3106, 1.70 GHz)",16,2,8,1700,16,351,327,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge FC640 (Intel Xeon Bronze 3104, 1.70 GHz)",12,2,6,1700,12,341,326,Oct-2017
+CINT2006rate,"Dell Inc.","PowerEdge FC640 (Intel Xeon Bronze 3106, 1.70 GHz)",16,2,8,1700,16,441,423,Oct-2017
+CINT2006rate,"Dell Inc.","PowerEdge M640 (Intel Xeon Bronze 3104, 1.70 GHz)",12,2,6,1700,12,339,325,Sep-2017
+CINT2006rate,"Dell Inc.","PowerEdge M640 (Intel Xeon Bronze 3106, 1.70 GHz)",16,2,8,1700,16,452,433,Sep-2017
+CINT2006rate,"Dell Inc.","PowerEdge R440 (Intel Xeon Bronze 3106, 1.70 GHz)",16,2,8,1700,16,451,433,Sep-2017
+CINT2006rate,"Dell Inc.","PowerEdge R540 (Intel Xeon Bronze 3106, 1.70 GHz)",16,2,8,1700,16,0,433,Sep-2017
+CINT2006rate,"Dell Inc.","PowerEdge R640 (Intel Xeon Bronze 3104, 1.70 GHz)",12,2,6,1700,12,0,325,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge R640 (Intel Xeon Bronze 3106, 1.70 GHz)",16,2,8,1700,16,0,433,Aug-2017
+CINT2006rate,"Dell Inc.","PowerEdge R740 (Intel Xeon Bronze 3104, 1.70 GHz)",12,2,6,1700,12,0,325,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R740 (Intel Xeon Bronze 3104, 1.70 GHz)",12,2,6,1700,12,0,246,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R740 (Intel Xeon Bronze 3106, 1.70 GHz)",16,2,8,1700,16,0,432,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge R740 (Intel Xeon Bronze 3106, 1.70 GHz)",16,2,8,1700,16,0,329,Jul-2017
+CINT2006rate,"Dell Inc.","PowerEdge T440 (Intel Xeon Bronze 3106, 1.70 GHz)",16,2,8,1700,16,451,432,Sep-2017
+CINT2006rate,Fujitsu,"PRIMERGY RX2530 M4, Intel Xeon Bronze 3104, 1.70GHz",12,2,6,1700,12,0,330,Sep-2017
+CINT2006rate,Fujitsu,"PRIMERGY RX2530 M4, Intel Xeon Bronze 3106, 1.70GHz",16,2,8,1700,16,0,440,Sep-2017
+CINT2006rate,Huawei,"Huawei 1288H V5 (Intel Xeon Bronze 3104)",12,2,6,1700,12,342,328,Sep-2017
+CINT2006rate,Huawei,"Huawei 1288H V5 (Intel Xeon Bronze 3106)",16,2,8,1700,16,458,439,Sep-2017
+CINT2006rate,Huawei,"Huawei 2288H V5 (Intel Xeon Bronze 3104)",12,2,6,1700,12,342,328,Sep-2017
+CINT2006rate,Huawei,"Huawei 2288H V5 (Intel Xeon Bronze 3106)",16,2,8,1700,16,458,439,Sep-2017
+CINT2006rate,Huawei,"Huawei CH121 V5 (Intel Xeon Bronze 3104)",12,2,6,1700,12,342,328,Sep-2017
+CINT2006rate,Huawei,"Huawei CH121 V5 (Intel Xeon Bronze 3106)",16,2,8,1700,16,457,438,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SD530 (1.70 GHz, Intel Xeon Bronze 3104)",12,2,6,1700,12,334,323,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SD530 (1.70 GHz, Intel Xeon Bronze 3106)",16,2,8,1700,16,446,430,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SN550 (1.70 GHz, Intel Xeon Bronze 3106)",16,2,8,1700,16,448,431,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR530 (1.70 GHz, Intel Xeon Bronze 3104)",12,2,6,1700,12,337,323,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR530 (1.70 GHz, Intel Xeon Bronze 3106)",16,2,8,1700,16,448,432,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR550 (1.70 GHz, Intel Xeon Bronze 3104)",12,2,6,1700,12,336,323,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR550 (1.70 GHz, Intel Xeon Bronze 3106)",16,2,8,1700,16,446,430,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR630 (1.70 GHz, Intel Xeon Bronze 3104)",12,2,6,1700,12,339,326,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR630 (1.70 GHz, Intel Xeon Bronze 3106)",16,2,8,1700,16,451,433,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR650 (1.70 GHz, Intel Xeon Bronze 3104)",12,2,6,1700,12,339,326,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem SR650 (1.70 GHz, Intel Xeon Bronze 3106)",16,2,8,1700,16,452,433,Oct-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem ST550 (1.70 GHz, Intel Xeon Bronze 3104)",12,2,6,1700,12,339,324,Sep-2017
+CINT2006rate,"Lenovo Global Technology","ThinkSystem ST550 (1.70 GHz, Intel Xeon Bronze 3106)",16,2,8,1700,16,449,432,Sep-2017
