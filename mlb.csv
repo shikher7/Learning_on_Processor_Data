@@ -1,0 +1,41 @@
+	benchmark	hardware_vendor	system	#_cores	#_chips	#_cores_per_chip	processor_mhz	base_copies	result	baseline	published
+0	CINT2006rate	Cisco Systems	Intel Xeon Bronze 3104	12	2	6	1700	12	344	330	Oct-2017
+1	CINT2006rate	Cisco Systems	Intel Xeon Bronze 3106	16	2	8	1700	16	458	439	Oct-2017
+2	CINT2006rate	Dell Inc.	Intel Xeon Bronze 3104	12	2	6	1700	12	286	275	Aug-2017
+3	CINT2006rate	Dell Inc.	Intel Xeon Bronze 3104	12	2	6	1700	12	287	276	Jul-2017
+4	CINT2006rate	Dell Inc.	Intel Xeon Bronze 3106	16	2	8	1700	16	409	393	Aug-2017
+5	CINT2006rate	Dell Inc.	Intel Xeon Bronze 3106	16	2	8	1700	16	351	327	Jul-2017
+6	CINT2006rate	Dell Inc.	Intel Xeon Bronze 3104	12	2	6	1700	12	341	326	Oct-2017
+7	CINT2006rate	Dell Inc.	Intel Xeon Bronze 3106	16	2	8	1700	16	441	423	Oct-2017
+8	CINT2006rate	Dell Inc.	Intel Xeon Bronze 3104	12	2	6	1700	12	339	325	Sep-2017
+9	CINT2006rate	Dell Inc.	Intel Xeon Bronze 3106	16	2	8	1700	16	452	433	Sep-2017
+10	CINT2006rate	Dell Inc.	Intel Xeon Bronze 3106	16	2	8	1700	16	451	433	Sep-2017
+11	CINT2006rate	Dell Inc.	Intel Xeon Bronze 3106	16	2	8	1700	16	0	433	Sep-2017
+12	CINT2006rate	Dell Inc.	Intel Xeon Bronze 3104	12	2	6	1700	12	0	325	Aug-2017
+13	CINT2006rate	Dell Inc.	Intel Xeon Bronze 3106	16	2	8	1700	16	0	433	Aug-2017
+14	CINT2006rate	Dell Inc.	Intel Xeon Bronze 3104	12	2	6	1700	12	0	325	Jul-2017
+15	CINT2006rate	Dell Inc.	Intel Xeon Bronze 3104	12	2	6	1700	12	0	246	Jul-2017
+16	CINT2006rate	Dell Inc.	Intel Xeon Bronze 3106	16	2	8	1700	16	0	432	Jul-2017
+17	CINT2006rate	Dell Inc.	Intel Xeon Bronze 3106	16	2	8	1700	16	0	329	Jul-2017
+18	CINT2006rate	Dell Inc.	Intel Xeon Bronze 3106	16	2	8	1700	16	451	432	Sep-2017
+19	CINT2006rate	Fujitsu	Intel Xeon Bronze 3104	12	2	6	1700	12	0	330	Sep-2017
+20	CINT2006rate	Fujitsu	Intel Xeon Bronze 3106	16	2	8	1700	16	0	440	Sep-2017
+21	CINT2006rate	Huawei	Intel Xeon Bronze 3104	12	2	6	1700	12	342	328	Sep-2017
+22	CINT2006rate	Huawei	Intel Xeon Bronze 3106	16	2	8	1700	16	458	439	Sep-2017
+23	CINT2006rate	Huawei	Intel Xeon Bronze 3104	12	2	6	1700	12	342	328	Sep-2017
+24	CINT2006rate	Huawei	Intel Xeon Bronze 3106	16	2	8	1700	16	458	439	Sep-2017
+25	CINT2006rate	Huawei	Intel Xeon Bronze 3104	12	2	6	1700	12	342	328	Sep-2017
+26	CINT2006rate	Huawei	Intel Xeon Bronze 3106	16	2	8	1700	16	457	438	Sep-2017
+27	CINT2006rate	Lenovo Global Technology	Intel Xeon Bronze 3104	12	2	6	1700	12	334	323	Oct-2017
+28	CINT2006rate	Lenovo Global Technology	Intel Xeon Bronze 3106	16	2	8	1700	16	446	430	Oct-2017
+29	CINT2006rate	Lenovo Global Technology	Intel Xeon Bronze 3106	16	2	8	1700	16	448	431	Sep-2017
+30	CINT2006rate	Lenovo Global Technology	Intel Xeon Bronze 3104	12	2	6	1700	12	337	323	Sep-2017
+31	CINT2006rate	Lenovo Global Technology	Intel Xeon Bronze 3106	16	2	8	1700	16	448	432	Sep-2017
+32	CINT2006rate	Lenovo Global Technology	Intel Xeon Bronze 3104	12	2	6	1700	12	336	323	Sep-2017
+33	CINT2006rate	Lenovo Global Technology	Intel Xeon Bronze 3106	16	2	8	1700	16	446	430	Sep-2017
+34	CINT2006rate	Lenovo Global Technology	Intel Xeon Bronze 3104	12	2	6	1700	12	339	326	Oct-2017
+35	CINT2006rate	Lenovo Global Technology	Intel Xeon Bronze 3106	16	2	8	1700	16	451	433	Oct-2017
+36	CINT2006rate	Lenovo Global Technology	Intel Xeon Bronze 3104	12	2	6	1700	12	339	326	Sep-2017
+37	CINT2006rate	Lenovo Global Technology	Intel Xeon Bronze 3106	16	2	8	1700	16	452	433	Oct-2017
+38	CINT2006rate	Lenovo Global Technology	Intel Xeon Bronze 3104	12	2	6	1700	12	339	324	Sep-2017
+39	CINT2006rate	Lenovo Global Technology	Intel Xeon Bronze 3106	16	2	8	1700	16	449	432	Sep-2017
