@@ -1,4 +1,4 @@
-	benchmark	hardware_vendor	system	#_cores	#_chips	#_cores_per_chip	processor_mhz	base_copies	result	baseline	published
+	benchmark	hardware_vendor	system	cores	chips	cores_per_chip	processor_mhz	base_copies	result	baseline	published
 0	CINT2006rate	Cisco Systems	Cisco UCS C240 M5 (Intel Xeon Bronze 3104, 1.70GHz)	12	2	6	1700	12	344	330	Oct-2017
 1	CINT2006rate	Cisco Systems	Cisco UCS C240 M5 (Intel Xeon Bronze 3106, 1.70GHz)	16	2	8	1700	16	458	439	Oct-2017
 2	CINT2006rate	Dell Inc.	PowerEdge C6420 (Intel Xeon Bronze 3104, 1.70 GHz)	12	2	6	1700	12	286	275	Aug-2017

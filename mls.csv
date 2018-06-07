@@ -1,4 +1,4 @@
-	benchmark	hardware_vendor	system	#_cores	#_chips	#_cores_per_chip	processor_mhz	base_copies	result	baseline	published	days
+	benchmark	hardware_vendor	system	cores	chips	cores_per_chip	processor_mhz	base_copies	result	baseline	published	days
 0	CINT2006rate	Cisco Systems	Intel Xeon Silver 4112	8	2	4	2600	16	385	357	Sep-2017	6453
 1	CINT2006rate	Cisco Systems	Intel Xeon Silver 4108	16	2	8	1800	32	671	636	Oct-2017	6483
 2	CINT2006rate	Cisco Systems	Intel Xeon Silver 4110	16	2	8	2100	32	740	702	Sep-2017	6453
